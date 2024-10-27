@@ -2,7 +2,7 @@
 
 > ℹ️ **NOTE:** Este repositório foi criado para armazenar e compartilhar os resultados obtidos em um exercício avaliativo da disciplina Estruturas de Dados do curso superior Tecnologias em Sistemas para a Internet, da instituição IFSP - Campus Araraquara. 
 
-## 🛠️ Instruções de execução do Exercício
+## 🛠️ Instruções Para a Execução do Exercício
 ### Comparação de Algoritmos de Classificação
 
 Implemente um programa em C que utilize os seguintes métodos de classificação:
@@ -51,12 +51,18 @@ Para cada combinação de método e caso de teste, preencha a tabela com o núme
 - O mesmo vetor deve ser classificado por cada método de classificação.
 - Ao medir o tempo de execução, utilize funções de medição de tempo precisas, como `clock()` da biblioteca `<time.h>`.
 
-## ✨ Como foi feito?
+## ✨ Como Foi Feito?
 
 - Foi utilizado o editor de código-fonte Visual Studio Code (VS Code).
 - O código foi desenvolvido na linguagem C.  
 - As tabelas e os gráficos de desempenho dos algoritmos foram criados no Excel.
 - O relatório com a consolidação dos resultados foi desenvolvido no Word.
+
+## 💻 Configurações Básicas da Máquina Utilizada para os Testes
+- Processador: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz   2.90 GHz.
+- RAM instalada: 8,00 GB (utilizável: 7,87 GB). 
+- Tipo de sistema: Sistema operacional de 64 bits, processador baseado em x64. 
+- Sistema operacional: Windows 11 Pro. 
 
 ## 📚 Materiais de Referências
 
@@ -67,7 +73,7 @@ ECOP/UFERSA (ISSN 2526-7574), n. 1, 2017.
 
 
 
-## 👨‍💻 Expert
+## 👨‍💻 Feito Por
 
 <p>
     <img 
@@ -76,15 +82,22 @@ ECOP/UFERSA (ISSN 2526-7574), n. 1, 2017.
       width=80 
       s
     />
-    <p>&nbsp&nbspLucas Eduardo Parila<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/lucasparila">
-    GitHub</a>&nbsp;|&nbsp;
+    <p>Lucas Eduardo Parila<br>
+    <a href="https://github.com/lucasparila">GitHub</a> &nbsp;|&nbsp; 
     <a href="https://www.linkedin.com/in/lucas-eduardo-parila-18638b252/​">LinkedIn</a>
-&nbsp;|&nbsp;
-    
-&nbsp;|&nbsp;</p>
+</p>
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      s
+    />
+    <p>
+    Matheus Correa<br>
+    <a href="https://github.com/lucasparila">GitHub</a> &nbsp;|&nbsp; 
+    <a href="https://www.linkedin.com/in/lucas-eduardo-parila-18638b252/">LinkedIn</a>
 </p>
 <br/><br/>
-<p>
+
 ---
