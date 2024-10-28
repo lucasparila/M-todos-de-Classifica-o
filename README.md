@@ -1,6 +1,9 @@
 # Exercício - Métodos de Classificação 
 
-> ℹ️ **NOTE:** Este repositório foi criado para armazenar e compartilhar os resultados obtidos em um exercício avaliativo da disciplina Estruturas de Dados do curso superior Tecnologias em Sistemas para a Internet, da instituição IFSP - Campus Araraquara. 
+> ℹ️ **NOTE:** Este repositório foi criado para armazenar e compartilhar os resultados obtidos em um exercício avaliativo da disciplina Estruturas de Dados do curso superior Tecnologias em Sistemas para a Internet, da instituição IFSP - Campus Araraquara.
+
+><a href="https://github.com/lucasparila/Metodos-de-Ordenacao/blob/main/Documenta%C3%A7%C3%A3o/Relat%C3%B3rio%20-%20M%C3%A9todo%20de%20Ordena%C3%A7%C3%A3o.pdf" title="View PDF now"> 📕Clique aqui para ler o relatório</a>
+ 
 
 ## 🛠️ Instruções Para a Execução do Exercício
 ### Comparação de Algoritmos de Classificação
@@ -94,8 +97,8 @@ ECOP/UFERSA (ISSN 2526-7574), n. 1, 2017.
       s
     />
     <p>
-    Matheus Correa<br>
-    <a href="https://github.com/lucasparila">GitHub</a> &nbsp;|&nbsp; 
+    Matheus Correia<br>
+    <a href="https://github.com/MatheusC8">GitHub</a> &nbsp;|&nbsp; 
     <a href="https://www.linkedin.com/in/lucas-eduardo-parila-18638b252/">LinkedIn</a>
 </p>
 <br/><br/>
